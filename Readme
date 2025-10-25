@@ -1,0 +1,21 @@
+## 🎯 Sample Questions You Can Ask Project Samarth
+
+### Crop Production Analytics
+- What was the wheat production in Amritsar in 2022?
+- List wheat production for Gurdaspur for the last 5 years.
+- Which district in Punjab had the highest wheat production in 2021?
+
+### Trend Analysis
+- Show me the trend in wheat production for Ludhiana from 2018 to 2022.
+
+
+### Climate Data Queries
+- Show me rainfall data for Madhya Maharashtra since 2012.
+- What was the annual rainfall in Punjab in 2015?
+
+### Cross-Domain Analytics (Correlations)
+- What is the correlation coefficient between annual rainfall and wheat output in Punjab from 2010 to 2017?
+- Does wheat production in Amritsar increase with rainfall? (If data is available.)
+
+### Simple Unknowns/Error Handling
+- What is the rice production in Karnataka in 2020? (If data is unavailable, system says "I don't know.")
