@@ -4,8 +4,8 @@
 requests==2.31.0
 pandas==2.0.3
 python-dotenv==1.0.0
-langchain==0.1.0
-langchain-google-genai==0.0.8
+langchain
+langchain-google-genai
 google-generativeai
 faiss-cpu 
 streamlit==1.28.0
