@@ -1,16 +1,17 @@
 # requirements.txt
 # All Python packages needed for Project Samarth
-
-requests==2.31.0
-pandas==2.0.3
-python-dotenv==1.0.0
-langchain
-langchain-google-genai
-google-generativeai
-faiss-cpu 
-streamlit==1.28.0
-watchdog==2.3.1
-numpy
-langchain-core
-langchain-classic
-langchain-community
+requests==2.32.5
+pandas==2.3.3
+python-dotenv==1.1.1
+langchain==1.0.2
+langchain-google-genai==3.0.0
+google-generativeai==0.9.0
+faiss-cpu==1.12.0
+streamlit==1.50.0
+watchdog==6.0.0
+numpy==2.3.4
+langchain-core==1.0.1
+langchain-classic==1.0.0
+langchain-text-splitters==1.0.0
+langgraph==1.0.1
+langchain-community==0.4
